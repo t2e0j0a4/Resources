@@ -45,6 +45,17 @@ Example of HTML Code :
 	</html>
 ```
 
+**Must Know** : 
+
+- HTML Page Structures.
+- HTML Tags.
+- Inline & Block elements.
+- Linking CSS to HTML.
+- ***&lt;meta&gt;*** Tags.
+-  ***&lt;script&gt;*** Tag.
+- Writing Semantic HTML Tags.
+- Writing clean structure with comments for better understanding.
+
 **Resources** :
 
 1. Videos : \
