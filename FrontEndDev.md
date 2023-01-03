@@ -6,10 +6,10 @@
 This is an initiation which is for freshers and any person who wishes to learn **_Frontend Web Development_** with a roadmap, resources, practical experience, and guidance/mentorship.
 
 ## Mentor Details
-**Name** : 
-**Mobile Number** : 
-**LinkedIn** : 
-**Email** : 
+**Name** : XXXXXXX\
+**Mobile Number** : XXXXXXXXXX\
+**LinkedIn** : XXXXXXXXX\
+**Email** : XXXXXXXX
 
 ## Technologies Involved 
 
@@ -49,7 +49,7 @@ Example of HTML Code :
 	</html>
 ```
 
-**Resources** :
+**Resources** :\
 Videos : \
 <a href="https://www.youtube.com/watch?v=BsDoLVMnmZs">HTML Tutorial - Code with Harry (Hindi)</a>\
 <a href="https://www.youtube.com/watch?v=kUMe1FH4CHE">Learn HTML - freecodecamp.org (English)</a>\
