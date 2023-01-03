@@ -49,7 +49,8 @@ Example of HTML Code :
 	</html>
 ```
 
-**Resources** :\
+**Resources** :
+
 1. Videos : \
 <a href="https://www.youtube.com/watch?v=BsDoLVMnmZs">HTML Tutorial - Code with Harry (Hindi)</a>\
 <a href="https://www.youtube.com/watch?v=kUMe1FH4CHE">Learn HTML - freecodecamp.org (English)</a>\
@@ -84,7 +85,7 @@ Example of CSS Code :
 - Using Flexbox and Grid System for 1-D and 2-D Responsive Designs.
 - Animations and Transitions for better visual effects.
 
-**Resources** :\
+**Resources** :
 
 1. Videos : \
 <a href="https://www.youtube.com/watch?v=OXGznpKZ_sA">Latest CSS Tutorial - freecodecamp.org (English)</a>\
