@@ -12,7 +12,7 @@
 <li> Linkedin : </li>
 
 ## <h3> Technologies Involved </h3>
-<p> HTML, CSS, JS, _____ </p>
+<p> HTML, CSS, JS are the main three pillars of Web Development. And there are many **frameworks** and **plug-ins** for developing a cool UI. </p>
 
 ## <h3> Schedule </h3>
 <p> Day 1 - 10 </p>
