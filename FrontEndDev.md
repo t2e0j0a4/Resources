@@ -17,10 +17,6 @@ This is an initiation which is for freshers and any person who wishes to learn *
 -  Frameworks helps developers with already custom built components to their code.
 - There are some **_CSS_** frameworks  like : 
 	* **Tailwind CSS** - This CSS Framework helps in providing _utility classes_ for your code where styling is needed. One of the key benefits of Tailwind is that it allows developers to build custom designs without having to write custom CSS.
-	``` HTML
-		<!-- Tailwind Utility class for text color black. -->
-		<h1 class='text-black'>Hello World</h1>
-	```
 	* **Bootstrap** - Bootstrap is a more feature-complete framework, with a larger set of predefined styles and UI components. And easier to build responsive layouts.
 	
 - And Javascript has many frameworks & libraries, but while learning Frontend we come across : 
