@@ -58,7 +58,7 @@ Others : \
 <a href="https://freecodecamp.org/">freecodecamp.org</a>\
 <a href="https://www.freecodecamp.org/news/the-html-handbook/">HTML Handbook by freecodecamp.org</a>\
 <a href="https://www.w3schools.com/html/">HTML Tutorial by W3 Schools</a>\
-<a href="https://www.learn-html.org/">Interactive HTML Tutorial</a>\
+<a href="https://www.learn-html.org/">Interactive HTML Tutorial</a>
 
 ---
 
