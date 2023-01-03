@@ -50,11 +50,11 @@ Example of HTML Code :
 ```
 
 **Resources** :\
-Videos : \
+1. Videos : \
 <a href="https://www.youtube.com/watch?v=BsDoLVMnmZs">HTML Tutorial - Code with Harry (Hindi)</a>\
 <a href="https://www.youtube.com/watch?v=kUMe1FH4CHE">Learn HTML - freecodecamp.org (English)</a>\
 <a href="https://www.youtube.com/watch?v=a_iQb1lnAEQ">HTML CSS Projects - freecodecamp.org (English)</a>\
-Others : \
+2. Others : \
 <a href="https://freecodecamp.org/">freecodecamp.org</a>\
 <a href="https://www.freecodecamp.org/news/the-html-handbook/">HTML Handbook by freecodecamp.org</a>\
 <a href="https://www.w3schools.com/html/">HTML Tutorial by W3 Schools</a>\
