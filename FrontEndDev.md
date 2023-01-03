@@ -63,4 +63,50 @@ Others : \
 ---
 
 ### <u>*Day 6-20*</u>
-***CSS*** - Cascading Style Sheets and is used to style web pages. It is a stylesheet language that is used to style the structure written in HTML.
+***CSS*** - Cascading Style Sheets and is used to style web pages. It is a stylesheet language that is used to style the structure written in HTML. Using HTML Selectors.
+
+Example of CSS Code :
+``` CSS
+	/* Styling h1 Tag */
+	h1 {
+		color : red;
+		background-color : yellow;
+	}
+```
+
+**Must Know** : 
+- Structure of styles and using correct HTML selectors for stylings elements.
+- Selectors : Tags, Id's, Classes, Universal, Pseudo etc...
+- Ways to apply styles, including using external stylesheets, internal stylesheets, and inline styles.
+- CSS Properties : fonts, colors, layout properties like margins, paddings, borders, position, transform and many...
+- Units usage & difference : _px, em, rem, %, vh, vw_.
+- Responsive Layouts and using Media Queries.
+- Using Flexbox and Grid System for 1-D and 2-D Responsive Designs.
+- Animations and Transitions for better visual effects.
+
+**Resources** :\
+
+1. Videos : \
+<a href="https://www.youtube.com/watch?v=OXGznpKZ_sA">Latest CSS Tutorial - freecodecamp.org (English)</a>\
+<a href="https://www.youtube.com/watch?v=Edsxf_NBFrw">CSS With Notes - Code with harry (Hindi)</a>\
+<a href="https://www.youtube.com/watch?v=SR5GxoFhIAU">CSS Project - freecodecamp.org (English)</a>\
+<a href="https://www.youtube.com/watch?v=5qVuORLniwM">CSS Flexbox - Code with harry (Hindi)</a>\
+<a href="https://www.youtube.com/watch?v=BNmxUzPRYdw">CSS Grid - Code with harry (Hindi)</a>\
+<a href="https://www.youtube.com/watch?v=tXIhdp5R7sc">CSS Flexbox - freecodecamp.org (English)</a>\
+<a href="https://www.youtube.com/watch?v=Qhaz36TZG5Y">10 Pro Tips of CSS - Fireship</a>
+
+2. Other Sources : \
+<a href="https://100dayscss.com/">100dayscss.com</a>\
+<a href="https://freecodecamp.org/">freecodecamp.org</a>\
+<a href="https://cssbattle.dev/">cssbattle.dev</a>
+
+3. Projects Reference : \
+<a href="https://www.youtube.com/watch?v=-8LTPIJBGwQ">Recipe Website Using HTML, CSS - freecodecamp.org (English)</a>
+
+4. Chrome Extensions : \
+<a href="https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh">Fonts Ninja</a> - Identify fonts from any website.\
+<a href="https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en">Colorzilla</a> - With Colorzilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program.
+
+Also,  Use browser's in-built dev tools for more easiness and debugging the code and style you have written.
+
+**NOTE :** Project-based learning is best learning. So, learn while doing projects. When you're starting you can take reference to others work. But later on try yourself and enhance yourself.
