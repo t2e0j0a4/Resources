@@ -6,10 +6,10 @@
 This is an initiation which is for freshers and any person who wishes to learn **_Frontend Web Development_** with a roadmap, resources, practical experience, and guidance/mentorship.
 
 ## Mentor Details
-**Name** : XXXXXXX\
-**Mobile Number** : XXXXXXXXXX\
-**LinkedIn** : XXXXXXXXX\
-**Email** : XXXXXXXX
+**Name** : \
+**Mobile Number** : \
+**LinkedIn** : \
+**Email** : 
 
 ## Technologies Involved 
 
