@@ -2,7 +2,7 @@
 
 <h2 align="center"> Frontend Web Development </h2>
 
-**_#50DaysOfCodeFrontEndDev_**
+**_#DaysOfCodeFrontEndDev_**
 This is an initiation which is for freshers and any person who wishes to learn **_Frontend Web Development_** with a roadmap, resources, practical experience, and guidance/mentorship.
 
 ## Mentor Details
@@ -29,7 +29,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 **NOTE** : Choose one framework and try to learn about it maximum. Then if you're interested you can go with others too.
 
 ## Schedule & Resources
-### <u>*Day 1-5*</u>
+### <u>*Day 1-7*</u>
 ***HTML*** - HTML stands for Hypertext Markup Language and is used to structure content on the web. Uses Tags for creating content in web page.
 
 Example of HTML Code :
@@ -70,7 +70,7 @@ Example of HTML Code :
 
 ---
 
-### <u>*Day 6-20*</u>
+### <u>*Day 8-30*</u>
 ***CSS*** - Cascading Style Sheets and is used to style web pages. It is a stylesheet language that is used to style the structure written in HTML. Using HTML Selectors.
 
 Example of CSS Code :
