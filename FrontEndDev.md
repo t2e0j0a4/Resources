@@ -20,17 +20,4 @@
     <li> HTML </li>
     <li> CSS : </li>
 
-<p> Day 1 - 10 </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
-
-<p> Day 1 - 10 </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
-
-<p> Milestone </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
+Hello
