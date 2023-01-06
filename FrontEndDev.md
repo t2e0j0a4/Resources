@@ -32,18 +32,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 ### <u>*Day 1-7*</u>
 ***HTML*** - HTML stands for Hypertext Markup Language and is used to structure content on the web. Uses Tags for creating content in web page.
 
-Example of HTML Code :
-``` HTML
-	<!DOCTYPE html> <!-- Tells the web browser that this is an HTML page. -->
-	<html>
-	<head>
-		<title>Title of my page</title>
-	</head>
-	<body>
-		<h1>Hello,Page!</h1>
-	</body>
-	</html>
-```
+<img align="center" width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html">
 
 **Must Know** : 
 
