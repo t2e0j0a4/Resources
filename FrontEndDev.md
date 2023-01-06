@@ -6,12 +6,12 @@
 This is an initiation which is for freshers and any person who wishes to learn **_Frontend Web Development_** with a roadmap, resources, practical experience, and guidance/mentorship.
 
 ## Mentor Details
-**Name** : Shakir Farhan , Full Stack Web Developer\
+**Name** : _Shakir Farhan_ , Full-Stack Web Developer\
 **Mobile Number** : 9391634115\
 **LinkedIn** : <a href="https://www.linkedin.com/in/shak1rfarhan/" target="_blank">LinkedIn</a>\
 **Email** : <a href="mailto:shakirfarhan123@gmail.com" target="_blank">Email</a>
 
-**Name** : Nagateja , Front End Web Developer\
+**Name** : _Nagateja_ , Frontend Web Developer\
 **Mobile Number** : 9398891038\
 **LinkedIn** : <a href="https://www.linkedin.com/in/t2e0j0a4/" target="_blank">LinkedIn</a>\
 **Email** : <a href="mailto:teja91.valiveti@gmail.com" target="_blank">Email</a>
