@@ -250,8 +250,12 @@ Going through their official documentations is really enough for knowing how to 
 
 ---
 
-This is just a detailed roadmap we provided. This is based on your ***INTEREST, TIME, and HOW CONSISTENT YOU ARE ?***  This may take time to learn each and every skill and understanding them. 
-If you have any doubts try reaching us, we will help you with fellow developers. Also try to learn building projects.
+***Remember : ***
+
+This is just a detailed roadmap we provided.\
+This is based on your ***INTEREST, TIME, and HOW CONSISTENT YOU ARE ?***  This may take time to learn each and every skill and understanding them.\
+If you have any doubts don't hesitate to reach us.\
+Show off your projects.\
 Don't try to remember codes, styles, tags etc. There is no need of remembering them as you code you will know everything.
 
 ---
