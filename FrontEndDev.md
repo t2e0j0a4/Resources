@@ -154,16 +154,16 @@ Some of the main features of ES6 include :
 **Resources** : 
 
 1. Videos : \
-<a href="https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR">Javascript Complete Playlist- Codewithharry (Hindi)</a>
-<a href="https://www.youtube.com/watch?v=zJSY8tbf_ys">Frontend Web Dev Bootcamp Course - freecodecamp.org (English)</a>
+<a href="https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR">Javascript Complete Playlist- Codewithharry (Hindi)</a>\
+<a href="https://www.youtube.com/watch?v=zJSY8tbf_ys">Frontend Web Dev Bootcamp Course - freecodecamp.org (English)</a>\
 <a href="https://www.youtube.com/playlist?list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ">Javascript ES6 Topics - Playlist - Codding Addict (John Smilga) - English</a>
 
-2. Other Sources : 
-	<a href="https://freecodecamp.org/">freecodecamp.org</a>
-	<a href="https://jschallenger.com/">jschallenger.com</a>
+2. Other Sources : \
+	<a href="https://freecodecamp.org/">freecodecamp.org</a>\
+	<a href="https://jschallenger.com/">jschallenger.com</a>\
 	<a href="https://www.w3schools.com/js/">JS Tutorial - W3 Schools</a>
 
-3. Instagram Handles for JS Posts : 
+3. Instagram Handles for JS Posts : \
 	<a href="https://www.instagram.com/adil.codes/">Adil | Web Developer</a>
 
 ---
