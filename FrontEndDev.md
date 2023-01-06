@@ -250,7 +250,7 @@ Going through their official documentations is really enough for knowing how to 
 
 ---
 
-***Remember : ***
+**_Remember :_**
 
 This is just a detailed roadmap we provided.\
 This is based on your ***INTEREST, TIME, and HOW CONSISTENT YOU ARE ?***  This may take time to learn each and every skill and understanding them.\
