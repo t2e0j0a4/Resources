@@ -62,7 +62,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 ### <u>*Day 8-30*</u>
 ***CSS*** - Cascading Style Sheets and is used to style web pages. It is a stylesheet language that is used to style the structure written in HTML. Using HTML Selectors.
 
-<img width="260px" height="290px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css">
+<img width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css">
 
 **Must Know** : 
 - Structure of styles and using correct HTML selectors for stylings elements.
