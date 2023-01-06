@@ -29,7 +29,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 **NOTE** : Choose one framework and try to learn about it maximum. Then if you're interested you can go with others too.
 
 ## Schedule & Resources
-### <u>*Day 1-7*</u>
+### <u>*Day 1-5*</u>
 ***HTML*** - HTML stands for Hypertext Markup Language and is used to structure content on the web. Uses Tags for creating content in web page.
 
 <img width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html">
@@ -59,7 +59,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 
 ---
 
-### <u>*Day 8-30*</u>
+### <u>*Day 6-20*</u>
 ***CSS*** - Cascading Style Sheets and is used to style web pages. It is a stylesheet language that is used to style the structure written in HTML. Using HTML Selectors.
 
 <img width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css">
