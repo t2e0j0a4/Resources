@@ -222,8 +222,8 @@ and many....
 
 ### <u>*Day 51-53*</u>
 
-Here try to built a project using framework and necessary technologies you learned till now. And try hosting it in any free hosting services like : \
-1. <a href='https://www.netlify.com/'>Netlify</a>\
+Here try to built a project using framework and necessary technologies you learned till now. And try hosting it in any free hosting services like : 
+1. <a href='https://www.netlify.com/'>Netlify</a>
 2. <a href="https://vercel.com/">Vercel</a>
 
 **What is Website Hosting ?** \
@@ -259,4 +259,4 @@ Don't try to remember codes, styles, tags etc. There is no need of remembering t
 <div align="right">
 	<div><b>Backend Web Development Complete Roadmap : </b></div>
 	<a href="">Backend Web Development RoadMap</a>
-</div>1-35*</u>
+</div>
