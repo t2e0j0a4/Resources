@@ -77,6 +77,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 **Resources** :
 
 1. Videos : \
+<a href="https://www.youtube.com/watch?v=G3e-cpL7ofc">HTML & CSS - Begginer to Pro</a>\
 <a href="https://www.youtube.com/watch?v=OXGznpKZ_sA">Latest CSS Tutorial - freecodecamp.org (English)</a>\
 <a href="https://www.youtube.com/watch?v=Edsxf_NBFrw">CSS With Notes - Code with harry (Hindi)</a>\
 <a href="https://www.youtube.com/watch?v=SR5GxoFhIAU">CSS Project - freecodecamp.org (English)</a>\
