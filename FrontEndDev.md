@@ -101,3 +101,17 @@ This is an initiation which is for freshers and any person who wishes to learn *
 Also,  Use browser's in-built dev tools for more easiness and debugging the code and style you have written.
 
 **NOTE :** Project-based learning is best learning. So, learn while doing projects. When you're starting you can take reference to others work. But later on try yourself and enhance yourself.
+
+---
+
+### <u>*Day 21-25*</u>
+As of now you have some knowledge of HTML, CSS. Start building ***projects***. Initially you can take video references but later try to make your own projects and show case them with your fellow developers and take inputs from them and try to implement them by your next projects.
+
+***Some HTML & CSS Projects Ideas:*** 
+1. <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Web Design Certification - freecodecamp.org</a> - This is a completly free certification course. Here, you needed to build 5 projects each by learning them. Finally you will receive a certificate by completing 5 projects.
+2. <a href="https://www.frontendmentor.io/">Frontendmentor.io</a> - Provides you complete design pack of the website you have to built. Try to convert design to your development code and submit to them.
+3. Try to **clone some websites**, like :
+	- A basic landing page: This could include a header, a hero image or banner, some sections to highlight features or products, and a footer. You could use HTML to structure the content and CSS to style it. 
+	- A portfolio website: This could showcase your work and projects, and include an about section, a contact form, and links to your social media profiles. You could use HTML to structure the content and CSS to style it and add transitions and animations.
+
+---
