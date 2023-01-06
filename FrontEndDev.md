@@ -185,7 +185,7 @@ Now you will be having a complete understanding of how a website or web app is b
 
 ***JS Frameworks*** 
 
-**Why learning Frameworks ?** 
+**Why learning Frameworks ?** \
 *A)* Learning a front-end JavaScript framework can be a valuable investment for anyone who is interested in building web applications. It can help you build better applications more efficiently, and it can also provide opportunities & professional development.
 
 ***There are many front-end JavaScript frameworks that you can use to build web applications. Some popular ones include:***
@@ -203,30 +203,30 @@ and many....
 **NOTE** : Don't try to learn all frameworks at single time. Choose one framework and try to learn and do projects in it completly then move over to other based on your neccesity. 
 
 **Resources** : 
-1. Videos : 
-	<a href="https://www.youtube.com/watch?v=iZhV0bILFb0&list=PLnHJACx3NwAe-GJ4GfptzUs8g7lFhE9DV&index=1">React Tutorial - Codding Addict (English)</a>
-	<a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt">React Complete Tutorial - Codewithharry (Hindi)</a>
-	<a href="https://www.youtube.com/watch?v=3qBXWUpoPHo">Angular Tutorial - freecodecamp.org (English)</a>
-	<a href="https://www.youtube.com/watch?v=CynLOUL9vsU">Angular vs React - Which one should choose ?</a>
+1. Videos : \
+	<a href="https://www.youtube.com/watch?v=iZhV0bILFb0&list=PLnHJACx3NwAe-GJ4GfptzUs8g7lFhE9DV&index=1">React Tutorial - Codding Addict (English)</a>\
+	<a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt">React Complete Tutorial - Codewithharry (Hindi)</a>\
+	<a href="https://www.youtube.com/watch?v=3qBXWUpoPHo">Angular Tutorial - freecodecamp.org (English)</a>\
+	<a href="https://www.youtube.com/watch?v=CynLOUL9vsU">Angular vs React - Which one should choose ?</a>\
 	<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f">Vue.js Complete Playlist - Codevolution</a>
 
-2. Official Documentations : 
-	<a href="https://reactjs.org/">React.js Official Docs</a>
-	<a href="https://angular.io/">Angular Documentations</a>
+2. Official Documentations : \
+	<a href="https://reactjs.org/">React.js Official Docs</a>\
+	<a href="https://angular.io/">Angular Documentations</a>\
 	<a href="https://vuejs.org/">Vue.js Official Docs</a>
 
-3. Chrome Extensions : 
+3. Chrome Extensions : \
 	<a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en">React Developer Tools</a>
 
 ---
 
 ### <u>*Day 51-53*</u>
 
-Here try to built a project using framework and necessary technologies you learned till now. And try hosting it in any free hosting services like : 
-1. <a href='https://www.netlify.com/'>Netlify</a>
+Here try to built a project using framework and necessary technologies you learned till now. And try hosting it in any free hosting services like : \
+1. <a href='https://www.netlify.com/'>Netlify</a>\
 2. <a href="https://vercel.com/">Vercel</a>
 
-**What is Website Hosting ?** 
+**What is Website Hosting ?** \
 *A)*  Website hosting refers to the service that allows a you to post a website or web page onto the Internet. When a website is hosted, it is stored on a special computer called a server, and can be accessed by anyone with an Internet connection.
 
 ---
@@ -245,7 +245,7 @@ You can learn ay one framework and you can easily move to another if needed.
 
 Going through their official documentations is really enough for knowing how to use them in your project.
 
-<a href="https://tailwindcss.com">Tailwind CSS</a>
+<a href="https://tailwindcss.com">Tailwind CSS</a>\
 <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap</a>
 
 ---
