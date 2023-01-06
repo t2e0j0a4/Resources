@@ -8,12 +8,12 @@ This is an initiation which is for freshers and any person who wishes to learn *
 ## Mentor Details
 **Name** : Shakir Farhan , Full Stack Web Developer\
 **Mobile Number** : 9391634115\
-**LinkedIn** : <a hef="https://www.linkedin.com/in/shak1rfarhan/" target="_blank">LinkedIn</a>\
+**LinkedIn** : <a href="https://www.linkedin.com/in/shak1rfarhan/" target="_blank">LinkedIn</a>\
 **Email** : <a href="mailto:shakirfarhan123@gmail.com" target="_blank">Email</a>
 
 **Name** : Nagateja , Front End Web Developer\
 **Mobile Number** : 9398891038\
-**LinkedIn** : <a hef="https://www.linkedin.com/in/t2e0j0a4/" target="_blank">LinkedIn</a>\
+**LinkedIn** : <a href="https://www.linkedin.com/in/t2e0j0a4/" target="_blank">LinkedIn</a>\
 **Email** : <a href="mailto:teja91.valiveti@gmail.com" target="_blank">Email</a>
 
 ## Technologies Involved 
