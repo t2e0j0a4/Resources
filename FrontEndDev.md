@@ -32,7 +32,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 ### <u>*Day 1-7*</u>
 ***HTML*** - HTML stands for Hypertext Markup Language and is used to structure content on the web. Uses Tags for creating content in web page.
 
-<img align="center" width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html">
+<img width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html">
 
 **Must Know** : 
 
@@ -62,14 +62,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 ### <u>*Day 8-30*</u>
 ***CSS*** - Cascading Style Sheets and is used to style web pages. It is a stylesheet language that is used to style the structure written in HTML. Using HTML Selectors.
 
-Example of CSS Code :
-``` CSS
-	/* Styling h1 Tag */
-	h1 {
-		color : red;
-		background-color : yellow;
-	}
-```
+<img width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css">
 
 **Must Know** : 
 - Structure of styles and using correct HTML selectors for stylings elements.
