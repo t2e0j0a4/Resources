@@ -2,16 +2,16 @@
 
 <h2 align="center"> Frontend Web Development </h2>
 
-**_#DaysOfCodeFrontEndDev_**
+**_#50DaysOfFrontendWebDev_**
 This is an initiation which is for freshers and any person who wishes to learn **_Frontend Web Development_** with a roadmap, resources, practical experience, and guidance/mentorship.
 
 ## Mentor Details
-**Name** : _Shakir Farhan_ , Full-Stack Web Developer\
+**Name** : _Shakir Farhan_ , Full-Stack Web Developer.\
 **Mobile Number** : 9391634115\
 **LinkedIn** : <a href="https://www.linkedin.com/in/shak1rfarhan/" target="_blank">LinkedIn</a>\
 **Email** : <a href="mailto:shakirfarhan123@gmail.com" target="_blank">Email</a>
 
-**Name** : _Nagateja_ , Frontend Web Developer\
+**Name** : _Teja_ , Frontend Web Developer.\
 **Mobile Number** : 9398891038\
 **LinkedIn** : <a href="https://www.linkedin.com/in/t2e0j0a4/" target="_blank">LinkedIn</a>\
 **Email** : <a href="mailto:teja91.valiveti@gmail.com" target="_blank">Email</a>
@@ -64,7 +64,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 
 ---
 
-### <u>*Day 6-20*</u>
+### <u>*Day 6-15*</u>
 ***CSS*** - Cascading Style Sheets and is used to style web pages. It is a stylesheet language that is used to style the structure written in HTML. Using HTML Selectors.
 
 <img width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css">
@@ -109,7 +109,7 @@ Also,  Use browser's in-built dev tools for more easiness and debugging the code
 
 ---
 
-### <u>*Day 21-25*</u>
+### <u>*Day 16-20*</u>
 As of now you have some knowledge of HTML, CSS. Start building ***projects***. Initially you can take video references but later try to make your own projects and show case them with your fellow developers and take inputs from them and try to implement them by your next projects.
 
 ***Some HTML & CSS Projects Ideas:*** 
@@ -120,3 +120,5 @@ As of now you have some knowledge of HTML, CSS. Start building ***projects***. I
 	- A portfolio website: This could showcase your work and projects, and include an about section, a contact form, and links to your social media profiles. You could use HTML to structure the content and CSS to style it and add transitions and animations.
 
 ---
+
+### <u>*Day 21-35*</u>
