@@ -1,36 +1,17 @@
 <h1 align="center">Hello 👋, We are e-Designing and Marketing </h1>
-<h3 align="center">Back End Development</h3>
 
-## <h3> 💯 #100DaysOfBackEndDevelopment </h3>
-<p> This is an intitiation which is for freshers and any person who wishes to learn any technology with a roadmap, resources, practical experience, and guidence/mentorship. </p>
+<h2 align="center"> Backend Web Development </h2>
 
-## <h3> Mentors Details </h3>
-<p> Feel Free to contact the mentors if you are in a JAM. </p>
-<li> Name : </li>
-<li> Email ID : </li>
-<li> Contact Number : </li>
-<li> Linkedin : </li>
+**_#50DaysOfBackendWebDev_**
+This is an initiation which is for freshers and any person who wishes to learn **_Backend Web Development_** with a roadmap, resources, practical experience, and guidance/mentorship. This is a part of **_#100DaysofWebDevelopment_**
 
-## <h3> Technologies Involved </h3>
-<p> HTML, CSS, JS, _____ </p>
+## Mentor Details
+**Name** : _Shakir Farhan_ , Full-Stack Web Developer.\
+**Mobile Number** : 9391634115\
+**LinkedIn** : <a href="https://www.linkedin.com/in/shak1rfarhan/" target="_blank">LinkedIn</a>\
+**Email** : <a href="mailto:shakirfarhan123@gmail.com" target="_blank">Email</a>
 
-## <h3> Schedule </h3>
-<p> Day 1 - 10 </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
-
-<p> Day 1 - 10 </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
-
-<p> Day 1 - 10 </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
-
-<p> Milestone </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
+**Name** : _Teja_ , Frontend Web Developer.\
+**Mobile Number** : 9398891038\
+**LinkedIn** : <a href="https://www.linkedin.com/in/t2e0j0a4/" target="_blank">LinkedIn</a>\
+**Email** : <a href="mailto:teja91.valiveti@gmail.com" target="_blank">Email</a>
