@@ -14,10 +14,10 @@ This is an initiation which is for freshers and any person who wishes to learn *
 
 ---
 
-**Q) What is the difference between backend and frontend web development?**
+**What is the difference between backend and frontend web development?**
 
-***A)*** Backend web development includes the server-side process of a website, such as the *server-side scripting and the database*. Backend developers are responsible for ensuring that a website functions properly and can handle the traffic and data being processed. Also interacting with databases to store and retrieve data used by the website.\
-**&**\
+Backend web development includes the server-side process of a website, such as the *server-side scripting and the database*. Backend developers are responsible for ensuring that a website functions properly and can handle the traffic and data being processed. Also interacting with databases to store and retrieve data used by the website.\
+**AND**\
 Frontend web development, on the other hand, refers to the development of the user-facing aspects of a website, such as the design and layout of the website and how users interact with it. Frontend developers work with languages such as HTML, CSS, and JavaScript to build the look and feel of a website.
 
 ## What Involved in learning Backend ?
@@ -46,7 +46,7 @@ Backend Roles are different and has no connection with Frontend Development. Yet
 -	What is Domain Name Systems (DNS) ?
 
 ***Resouces :*** 
-1. Videos : 
+1. Videos : \
 	<a href="https://www.youtube.com/watch?v=x3c1ih2NJEg">How does the Internet works ?</a>\
 	<a href="https://www.youtube.com/watch?v=7_LPdttKXPc">How do Internet Works ? | in 5 Minutes</a>\
 	<a href="https://www.youtube.com/watch?v=Wj0od2ag5sk">DNS and How it works ?</a>\
@@ -54,7 +54,7 @@ Backend Roles are different and has no connection with Frontend Development. Yet
 	<a href="https://www.youtube.com/watch?v=Y4cRx19nhJk">How Domain Name works?</a>\
 	<a href="https://www.youtube.com/watch?v=htbY9-yggB0">What is Web Hosting ? </a>
 
-2. Other Sources : 
+2. Other Sources : \
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview">An Overview of HTTP</a>\
 	<a href="https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work">How browsers works ?</a>\
 	<a href="https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/">What is DNS ?</a>\
@@ -73,7 +73,7 @@ You can choose any of the languages below mentioned :
 	3. ***Python, Java, C#, Ruby, Go, Rust***.
 
 **Resources :**
-1. Videos : 
+1. Videos : \
 	<a href='https://www.youtube.com/watch?v=SKlR4TJDTBo'>The best Backend Language</a>\
 	<a href="https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR">Javascript Complete Course - Codewithharry (Hindi)</a>\
 	<a href="https://www.youtube.com/watch?v=jS4aFq5-91M">Javascript Full Course - freecodecamp.org (English)</a>\
@@ -86,7 +86,7 @@ You can choose any of the languages below mentioned :
 	<a href="https://www.youtube.com/watch?v=YS4e4q9oBaU">GO Language - freecodecamp.org (English)</a>\
 	<a href='https://www.youtube.com/watch?v=s-iza7kAXME'>PHP and My-SQL - Simplilearn</a>
 	
-2. Website Sources : 
+2. Website Sources : \
 	<a href="https://">freecodecamp.org</a>\
 	<a href="https://jschallenger.com">JSChallenger.com</a>\
 	<a href="https://W3Schools.com">W3 Schools</a>
