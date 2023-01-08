@@ -183,7 +183,7 @@ Generally if you work in Javascript then we choose ***MERN*** ( MongoDB, Express
 
 ---
 
-### <u>*Day 45-50*</u>
+### <u>*Day 46-50*</u>
 
 Here you have some knowledge of tech skills needed for building full-stack web apps. Try building some cool projects and show case them. And also try to host your applications in Web Hostings like <a href="https://heroku.com">Heroku</a>
 
