@@ -193,7 +193,7 @@ Here you have some knowledge of tech skills needed for building full-stack web a
 
 ---
 
-**Remember :**
+**Remember :**\
 This is just a drop in ocean there is much more to learn for becoming a full-stack developer.\
 This is definetly time taking process to learn these many and don't be in hurry learning quickly. Understand first then try to execute.\
 Have any doubts can reach us anytime.
